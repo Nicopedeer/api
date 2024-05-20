@@ -1,0 +1,317 @@
+[
+    {
+      "nombre": "Incredible Metal Chicken",
+      "precio": 44722,
+      "desarrollador": "Schinner - Cronin",
+      "image": "https://loremflickr.com/640/480/fashion",
+      "stock": 41,
+      "oferta": false,
+      "id": "1"
+    },
+    {
+      "nombre": "Incredible Frozen Chair",
+      "precio": 99603,
+      "desarrollador": "Krajcik - Nikolaus",
+      "image": "https://loremflickr.com/640/480/city",
+      "stock": 76,
+      "oferta": false,
+      "id": "2"
+    },
+    {
+      "nombre": "Practical Plastic Salad",
+      "precio": 67074,
+      "desarrollador": "Mante - Roberts",
+      "image": "https://loremflickr.com/640/480/people",
+      "stock": 75,
+      "oferta": true,
+      "id": "3"
+    },
+    {
+      "nombre": "Intelligent Rubber Tuna",
+      "precio": 68633,
+      "desarrollador": "Kemmer, Leannon and Hauck",
+      "image": "https://loremflickr.com/640/480/cats",
+      "stock": 69,
+      "oferta": false,
+      "id": "4"
+    },
+    {
+      "nombre": "Oriental Granite Salad",
+      "precio": 97708,
+      "desarrollador": "Lindgren Inc",
+      "image": "https://loremflickr.com/640/480/nature",
+      "stock": 14,
+      "oferta": true,
+      "id": "5"
+    },
+    {
+      "nombre": "Fantastic Wooden Bike",
+      "precio": 81830,
+      "desarrollador": "Cormier Inc",
+      "image": "https://loremflickr.com/640/480/cats",
+      "stock": 95,
+      "oferta": true,
+      "id": "6"
+    },
+    {
+      "nombre": "Unbranded Soft Chair",
+      "precio": 70830,
+      "desarrollador": "Hilll Group",
+      "image": "https://loremflickr.com/640/480/people",
+      "stock": 76,
+      "oferta": true,
+      "id": "7"
+    },
+    {
+      "nombre": "Handmade Fresh Towels",
+      "precio": 28743,
+      "desarrollador": "Smitham, Beer and Gulgowski",
+      "image": "https://loremflickr.com/640/480/nature",
+      "stock": 19,
+      "oferta": true,
+      "id": "8"
+    },
+    {
+      "nombre": "Intelligent Bronze Fish",
+      "precio": 39202,
+      "desarrollador": "Swift - Bahringer",
+      "image": "https://loremflickr.com/640/480/technics",
+      "stock": 40,
+      "oferta": true,
+      "id": "9"
+    },
+    {
+      "nombre": "Small Metal Gloves",
+      "precio": 1568,
+      "desarrollador": "Pfeffer, Spinka and Boehm",
+      "image": "https://loremflickr.com/640/480/fashion",
+      "stock": 27,
+      "oferta": true,
+      "id": "10"
+    },
+    {
+      "nombre": "Fantastic Metal Chair",
+      "precio": 83064,
+      "desarrollador": "Reynolds Group",
+      "image": "https://loremflickr.com/640/480/cats",
+      "stock": 62,
+      "oferta": false,
+      "id": "11"
+    },
+    {
+      "nombre": "Practical Bronze Soap",
+      "precio": 26948,
+      "desarrollador": "Steuber, Gutkowski and Hayes",
+      "image": "https://loremflickr.com/640/480/nature",
+      "stock": 89,
+      "oferta": false,
+      "id": "12"
+    },
+    {
+      "nombre": "Rustic Steel Fish",
+      "precio": 68638,
+      "desarrollador": "Donnelly, Bins and Corwin",
+      "image": "https://loremflickr.com/640/480/nightlife",
+      "stock": 45,
+      "oferta": true,
+      "id": "13"
+    },
+    {
+      "nombre": "Ergonomic Soft Chair",
+      "precio": 75342,
+      "desarrollador": "Green LLC",
+      "image": "https://loremflickr.com/640/480/food",
+      "stock": 13,
+      "oferta": true,
+      "id": "14"
+    },
+    {
+      "nombre": "Sleek Plastic Keyboard",
+      "precio": 14963,
+      "desarrollador": "Raynor Group",
+      "image": "https://loremflickr.com/640/480/fashion",
+      "stock": 31,
+      "oferta": true,
+      "id": "15"
+    },
+    {
+      "nombre": "Tasty Rubber Keyboard",
+      "precio": 28366,
+      "desarrollador": "Gusikowski - Wolff",
+      "image": "https://loremflickr.com/640/480/transport",
+      "stock": 39,
+      "oferta": true,
+      "id": "16"
+    },
+    {
+      "nombre": "Handcrafted Granite Sausages",
+      "precio": 35666,
+      "desarrollador": "Conn - Graham",
+      "image": "https://loremflickr.com/640/480/abstract",
+      "stock": 47,
+      "oferta": true,
+      "id": "17"
+    },
+    {
+      "nombre": "Intelligent Frozen Tuna",
+      "precio": 14648,
+      "desarrollador": "Altenwerth, Fay and Mueller",
+      "image": "https://loremflickr.com/640/480/sports",
+      "stock": 74,
+      "oferta": true,
+      "id": "18"
+    },
+    {
+      "nombre": "Luxurious Fresh Pants",
+      "precio": 48213,
+      "desarrollador": "Ryan, Wiegand and Rogahn",
+      "image": "https://loremflickr.com/640/480/transport",
+      "stock": 24,
+      "oferta": true,
+      "id": "19"
+    },
+    {
+      "nombre": "Sleek Rubber Ball",
+      "precio": 19624,
+      "desarrollador": "Turner - Pagac",
+      "image": "https://loremflickr.com/640/480/nature",
+      "stock": 60,
+      "oferta": false,
+      "id": "20"
+    },
+    {
+      "nombre": "Handcrafted Granite Table",
+      "precio": 90499,
+      "desarrollador": "Miller Group",
+      "image": "https://loremflickr.com/640/480/nature",
+      "stock": 72,
+      "oferta": false,
+      "id": "21"
+    },
+    {
+      "nombre": "Practical Rubber Fish",
+      "precio": 84414,
+      "desarrollador": "Bailey, Walter and Mraz",
+      "image": "https://loremflickr.com/640/480/nightlife",
+      "stock": 21,
+      "oferta": true,
+      "id": "22"
+    },
+    {
+      "nombre": "Handcrafted Concrete Fish",
+      "precio": 31186,
+      "desarrollador": "Cummings and Sons",
+      "image": "https://loremflickr.com/640/480/fashion",
+      "stock": 85,
+      "oferta": true,
+      "id": "23"
+    },
+    {
+      "nombre": "Oriental Concrete Fish",
+      "precio": 11754,
+      "desarrollador": "Robel - Hansen",
+      "image": "https://loremflickr.com/640/480/business",
+      "stock": 79,
+      "oferta": false,
+      "id": "24"
+    },
+    {
+      "nombre": "Recycled Steel Towels",
+      "precio": 96580,
+      "desarrollador": "Stoltenberg and Sons",
+      "image": "https://loremflickr.com/640/480/technics",
+      "stock": 60,
+      "oferta": false,
+      "id": "25"
+    },
+    {
+      "nombre": "Luxurious Cotton Bike",
+      "precio": 36993,
+      "desarrollador": "Moore, Ryan and Champlin",
+      "image": "https://loremflickr.com/640/480/abstract",
+      "stock": 6,
+      "oferta": true,
+      "id": "26"
+    },
+    {
+      "nombre": "Oriental Concrete Car",
+      "precio": 94820,
+      "desarrollador": "Schaden - Barrows",
+      "image": "https://loremflickr.com/640/480/nightlife",
+      "stock": 44,
+      "oferta": false,
+      "id": "27"
+    },
+    {
+      "nombre": "Practical Granite Chips",
+      "precio": 30714,
+      "desarrollador": "Bauch LLC",
+      "image": "https://loremflickr.com/640/480/abstract",
+      "stock": 26,
+      "oferta": false,
+      "id": "28"
+    },
+    {
+      "nombre": "Refined Wooden Mouse",
+      "precio": 63127,
+      "desarrollador": "Padberg - Leffler",
+      "image": "https://loremflickr.com/640/480/transport",
+      "stock": 12,
+      "oferta": true,
+      "id": "29"
+    },
+    {
+      "nombre": "Modern Soft Table",
+      "precio": 10857,
+      "desarrollador": "Hermann LLC",
+      "image": "https://loremflickr.com/640/480/fashion",
+      "stock": 48,
+      "oferta": true,
+      "id": "30"
+    },
+    {
+      "nombre": "Oriental Steel Mouse",
+      "precio": 41188,
+      "desarrollador": "Mertz, Spinka and Harris",
+      "image": "https://loremflickr.com/640/480/fashion",
+      "stock": 71,
+      "oferta": true,
+      "id": "31"
+    },
+    {
+      "nombre": "Tasty Metal Cheese",
+      "precio": 91373,
+      "desarrollador": "Ratke - Harvey",
+      "image": "https://loremflickr.com/640/480/cats",
+      "stock": 3,
+      "oferta": true,
+      "id": "32"
+    },
+    {
+      "nombre": "Sleek Plastic Bacon",
+      "precio": 42057,
+      "desarrollador": "Casper LLC",
+      "image": "https://loremflickr.com/640/480/nature",
+      "stock": 55,
+      "oferta": true,
+      "id": "33"
+    },
+    {
+      "nombre": "Handcrafted Plastic Gloves",
+      "precio": 94368,
+      "desarrollador": "Senger and Sons",
+      "image": "https://loremflickr.com/640/480/cats",
+      "stock": 95,
+      "oferta": false,
+      "id": "34"
+    },
+    {
+      "nombre": "Practical Concrete Chicken",
+      "precio": 82491,
+      "desarrollador": "Daugherty, Stroman and Moen",
+      "image": "https://loremflickr.com/640/480/cats",
+      "stock": 67,
+      "oferta": false,
+      "id": "35"
+    }
+  ]
